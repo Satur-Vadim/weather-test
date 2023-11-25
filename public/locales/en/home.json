@@ -1,0 +1,10 @@
+{
+  "search": "Search",
+  "wind": "Wind",
+  "precip": "Precip",
+  "presure": "Presure",
+  "humidity": "Humidity",
+  "cloud": "Cloud",
+  "temp": "Temp",
+  "feelsLike": "Feels like"
+}

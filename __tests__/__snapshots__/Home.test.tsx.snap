@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home renders homepage unchanged 1`] = `
+<div
+  className="container"
+>
+  <main
+    className="main"
+  >
+    <div
+      className="flex justify-center items-center"
+    >
+      <div
+        className="w-full"
+      >
+        <div
+          className="relative"
+        >
+          <div
+            className="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none"
+          >
+            <img
+              alt="search"
+              aria-hidden="true"
+              className="w-5 h-5 text-gray-400"
+              src="/search.svg"
+            />
+          </div>
+          <div>
+            <div>
+              <input
+                className="block w-full p-4 ps-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+                disabled={false}
+                onBlur={[Function]}
+                onBlurCapture={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                onFocusCapture={[Function]}
+                placeholder="search"
+                type="search"
+                value=""
+              />
+            </div>
+            <div />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="flex p-3 -mx-3 flex-wrap"
+    />
+    <div
+      className="flex p-3 -mx-3 flex-wrap"
+    >
+      <h2
+        className="text-4xl font-bold dark:text-white w-full"
+      >
+        History
+      </h2>
+      <hr
+        className="w-full my-3"
+      />
+    </div>
+  </main>
+  <footer
+    className="footer"
+  >
+    <a
+      href="https://onix-systems.com"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      poweredBy
+       
+      onix
+    </a>
+  </footer>
+</div>
+`;
